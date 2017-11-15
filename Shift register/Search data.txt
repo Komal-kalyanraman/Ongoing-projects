@@ -1,0 +1,21 @@
+Aim of this is to control 50 motors using 74HC595 ic. Useful links according to priority are given below.
+
+1. http://bildr.org/2011/08/74hc595-breakout-arduino/
+I guess the above code has been tested by me during my stay in Gujarat
+
+2. http://www.arduinolibraries.info/libraries/shifty
+working well but complex library
+
+3. http://www.instructables.com/id/Arduino-16-LEDs-using-two-74HC595-shift-registers-/
+working without library. need further testing
+
+################################# NOT TESTED #######################################
+4. https://github.com/Simsso/Shift-Register-74HC595-Arduino-Library
+
+5. https://shiftregister.simsso.de/
+
+6. https://learn.adafruit.com/adafruit-arduino-lesson-4-eight-leds/arduino-code
+
+7. https://playground.arduino.cc/Main/ShiftOutX
+
+8. https://www.arduino.cc/en/Tutorial/ShiftOut
